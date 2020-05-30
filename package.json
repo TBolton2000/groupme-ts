@@ -1,0 +1,25 @@
+{
+  "name": "groupme-ts",
+  "version": "1.0.0",
+  "description": "A wrapper for the GroupMe API that uses either TypeScript or JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TBolton2000/groupme-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TBolton2000/groupme-ts/issues"
+  },
+  "homepage": "https://github.com/TBolton2000/groupme-ts#readme",
+  "dependencies": {
+    "got": "^11.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
