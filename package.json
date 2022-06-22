@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/TBolton2000/groupme-ts#readme",
   "dependencies": {
-    "got": "^11.1.4"
+    "got": "^11.8.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
